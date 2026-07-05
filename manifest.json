@@ -1,0 +1,9 @@
+{
+"name":"Term Ledger",
+"short_name":"Ledger",
+"start_url":"./term-ledger-tracker-pwa.html",
+"display":"standalone",
+"background_color":"#1B1D22",
+"theme_color":"#1B1D22",
+"icons":[]
+}
